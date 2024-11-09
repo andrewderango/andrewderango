@@ -24,4 +24,4 @@ _Repo: [github.com/PranavChandrakumar/NASA-Space-Apps-Challenge-2024](https://gi
 
 Web-based application that won the 2024 NASA Space Apps Hackthon in Hamilton. The application projects the orbital trajectories of the Landsat 8 and Landsat 9 satellites to predict future passover dates of a user-specified location. Upon satellite passover, the application interacts with NASA's AppEARS API to pull surface reflectance (SR) data from three different wavelength bands and automatically sends the user the corresponding SR data.
 
-_Tech Stack_: Next.js, Node.js, Firebase, Python
+_Tech Stack_: Next.js, Node.js, Firebase, Python.
