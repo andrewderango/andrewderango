@@ -27,7 +27,7 @@ _Tech Stack: C, neural networks, deep learning._
 
 ### HELIOS: High-resolution Earth Light and Infrared Observation System
 
-_Repo: [github.com/PranavChandrakumar/NASA-Space-Apps-Challenge-2024](https://github.com/PranavChandrakumar/NASA-Space-Apps-Challenge-2024)_
+_Repo: [https://github.com/andrewderango/helios-nasa](https://github.com/andrewderango/helios-nasa)_
 
 Web-based application that won the 2024 NASA Space Apps Hackthon in Hamilton. The application projects the orbital trajectories of the Landsat 8 and Landsat 9 satellites to predict future passover dates of a user-specified location. Upon satellite passover, the application interacts with NASA's AppEARS API to pull surface reflectance (SR) data from three different wavelength bands and automatically sends the user the corresponding SR data.
 
