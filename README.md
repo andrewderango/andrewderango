@@ -19,7 +19,7 @@ Advanced pacemaker system designed to deliver precise cardiac pacing and monitor
 _Tech Stack: ReactJS, Electron, Simulink, Python, UART, Node.js, FRDM-K64F._
 
 ### Neural Network in C
-_Repo: [github.com/andrewderango/Neural-Network-in-C](https://github.com/andrewderango/https://github.com/andrewderango/Neural-Network-in-C)_
+_Repo: [github.com/andrewderango/Neural-Network-in-C](https://github.com/andrewderango/Neural-Network-in-C)_
 
 Developed a full neural network entirely from scratch in C with customizable architecture and hyperparameters. Established a robust framework that enables users to visualize the model's performance and accuracy in real-time, and seamlessly construct, train, export, and deploy ANNs tailored to their own datasets.
 
