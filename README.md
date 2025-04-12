@@ -32,7 +32,3 @@ _Repo: [https://github.com/andrewderango/helios-nasa](https://github.com/andrewd
 Web-based application that won the 2024 NASA Space Apps Hackthon in Hamilton. The application projects the orbital trajectories of the Landsat 8 and Landsat 9 satellites to predict future passover dates of a user-specified location. Upon satellite passover, the application interacts with NASA's AppEARS API to pull surface reflectance (SR) data from three different wavelength bands and automatically sends the user the corresponding SR data.
 
 _Tech Stack: Next.js, Node.js, Firebase, Python._
-
-## Stats
-![andrewderango's Stats](https://github-readme-stats.vercel.app/api?username=andrewderango&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![andrewderango's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewderango&theme=dark&hide_border=false)
