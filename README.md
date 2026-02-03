@@ -1,3 +1,3 @@
 # Hi, I'm Andrew 👋
 
-I'm a Mechatronics and Biomedical Engineering student at McMaster University, passionate about the integration of diverse engineering principles into cohesive solutions. My interests span across various domains including artificial intelligence, robotics, embedded systems, and data science. Through numerous projects, I've had the opportunity to delve into these areas, engineering technology to solve real-world problems and pursue innovative solutions.
+Mechatronics & Biomedical Engineering student at McMaster University with experience in building multidisciplinary systems at the intersection of hardware, software, and data science. My work spans embedded systems, full-stack development, and quantitative modelling
